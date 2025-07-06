@@ -14,7 +14,7 @@ The app features:
 
 ## Screenshots
 Main Interface of the HealthyPlannerApp
-<img width="752" alt="UIOverview" src="https://github.com/user-attachments/assets/0549acb5-6e67-4934-ae61-c6a279c8f71a" />
+<img width="752" alt="UI Overview" src="https://github.com/user-attachments/assets/46528770-e91e-4010-94f6-eac8cb7a1960" />
 
 Output results after entering user data and clicking 'Calculate'
 <img width="752" alt="Output" src="https://github.com/user-attachments/assets/9030cad3-2a00-4aff-9c5c-59ca4045499d" />
